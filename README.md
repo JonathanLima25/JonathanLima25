@@ -11,4 +11,4 @@ Now check this cool cards with some status about my codes/activities. :point_dow
 
 ![Jonathan Lima github stats](https://github-readme-stats.vercel.app/api?username=JonathanLima25&theme=great-gatsby&count_private=true&show_icons=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanLima25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=JonathanLima25)](https://github.com/anuraghazra/github-readme-stats)
