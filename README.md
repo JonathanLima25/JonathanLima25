@@ -10,3 +10,5 @@ Let's connect in Linkedin!
 Now check this cool cards with some status about my codes/activities. :point_down:
 
 ![Jonathan Lima github stats](https://github-readme-stats.vercel.app/api?username=JonathanLima25&theme=great-gatsby&count_private=true&show_icons=true)
+
+[![Jonathan Lima wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JonathanLima25&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
