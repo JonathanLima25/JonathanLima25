@@ -12,3 +12,6 @@ Now check this cool cards with some status about my codes/activities. :point_dow
 ![Jonathan Lima github stats](https://github-readme-stats.vercel.app/api?username=JonathanLima25&theme=great-gatsby&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanLima25&theme=great-gatsby&layout=compact&langs_count=10)](https://github.com/JonathanLima25/github-readme-stats)
+
+
+:coffee:
